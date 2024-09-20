@@ -1,4 +1,4 @@
 notebook
-skimage
+scikit-image
 matplotlib
 numpy
